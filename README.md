@@ -9,9 +9,9 @@
 [filename] [options]Read input from the file.   
 If no file specified, selpg will read input from stdin. Control-D to end.   
 
-运行形参的输入事例：
+运行形参的输入事例：  
 ./selpg -s=1 -e=1 in.txt  
-./selpg -s=1 -e=1 -l=2 in.txt  
+./selpg -s=1 -e=1 -l=2 in.txt    
 ./selpg -s=1 -e=1 -f in.txt  
 ./selpg -s=1 -e=1 in.txt >out.txt
 
